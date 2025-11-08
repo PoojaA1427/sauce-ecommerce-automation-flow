@@ -1,12 +1,14 @@
 🛒 SauceDemo Automation Project
+
 🚀 End-to-End E-Commerce Automation Using Selenium WebDriver and Java
 📘 Project Overview
 
-This project automates the complete shopping flow on the SauceDemo
- website using Java and Selenium WebDriver.
+This project automates the complete shopping flow on the SauceDemo website using Java and Selenium WebDriver.
+
 It simulates a real-time user journey — from login to adding products and completing checkout — validating core e-commerce functionalities.
 
 ⚙️ Tech Stack
+
 Component	Technology Used
 Language	Java
 Automation Framework	Selenium WebDriver
@@ -14,6 +16,7 @@ Build Tool	Java Project
 Browser Driver	ChromeDriver
 Design Pattern	Basic Script (Single-Class Implementation)
 IDE Used	Eclipse IDE
+
 🧠 Features Automated
 
 ✅ Open SauceDemo website
